@@ -1,4 +1,4 @@
-Bitcoin Core integration/staging tree
+p3s4 Core integration/staging tree
 =====================================
 
 https://bitcoincore.org
@@ -6,10 +6,10 @@ https://bitcoincore.org
 For an immediately usable, binary version of the Bitcoin Core software, see
 https://bitcoincore.org/en/download/.
 
-What is Bitcoin Core?
+What is p3s4 Core?
 ---------------------
 
-Bitcoin Core connects to the Bitcoin peer-to-peer network to download and fully
+p3s4(pesa) Core connects to the Bitcoin peer-to-peer network to download and fully
 validate blocks and transactions. It also includes a wallet and graphical user
 interface, which can be optionally built.
 
@@ -18,7 +18,7 @@ Further information about Bitcoin Core is available in the [doc folder](/doc).
 License
 -------
 
-Bitcoin Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
+p3s4 Core is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see https://opensource.org/licenses/MIT.
 
 Development Process
